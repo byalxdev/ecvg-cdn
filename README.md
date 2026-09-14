@@ -6,4 +6,4 @@
 
 Este es el CDN del Proyecto EcoVigán. Compone una librería de archivos multimedia para el proyecto usados en distintos ámbitos.
 
-[Página web del CDN](https://cdn.jsdelivr.net/gh/byalxdev/ecvg-cdn@main/)
+[Página web del CDN](https://cdn.jsdelivr.net/gh/byalxdev/ecvg-cdn/)
